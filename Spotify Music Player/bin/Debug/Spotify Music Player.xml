@@ -1,0 +1,206 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Spotify Music Player
+</name>
+</assembly>
+<members>
+<member name="T:Spotify_Music_Player.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:Spotify_Music_Player.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:Spotify_Music_Player.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:Spotify_Music_Player.My.Resources.Resources._220px_The_Weeknd___Blinding_Lights">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Spotify_Music_Player.My.Resources.Resources.a1so87e6hgjfd9b5fxct">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Spotify_Music_Player.My.Resources.Resources.audio_127px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Spotify_Music_Player.My.Resources.Resources.audio_127px_png1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Spotify_Music_Player.My.Resources.Resources.DaBaby1_e1592954848719">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Spotify_Music_Player.My.Resources.Resources.end_127px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Spotify_Music_Player.My.Resources.Resources.end_127px_png1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Spotify_Music_Player.My.Resources.Resources.less_than_127px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Spotify_Music_Player.My.Resources.Resources.less_than_127px_png1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Spotify_Music_Player.My.Resources.Resources.love_127px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Spotify_Music_Player.My.Resources.Resources.love_127px_png1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Spotify_Music_Player.My.Resources.Resources.menu_127px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Spotify_Music_Player.My.Resources.Resources.menu_127px_png1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Spotify_Music_Player.My.Resources.Resources.micro_127px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Spotify_Music_Player.My.Resources.Resources.micro_127px_png1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Spotify_Music_Player.My.Resources.Resources.more_than_127px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Spotify_Music_Player.My.Resources.Resources.more_than_127px_png1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Spotify_Music_Player.My.Resources.Resources.multiple_devices_127px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Spotify_Music_Player.My.Resources.Resources.multiple_devices_127px_png1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Spotify_Music_Player.My.Resources.Resources.play_127px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Spotify_Music_Player.My.Resources.Resources.play_127px_png1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Spotify_Music_Player.My.Resources.Resources.reset_127px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Spotify_Music_Player.My.Resources.Resources.reset_127px_png1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Spotify_Music_Player.My.Resources.Resources.Screenshot_41">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Spotify_Music_Player.My.Resources.Resources.Screenshot_411">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Spotify_Music_Player.My.Resources.Resources.Screenshot_42">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Spotify_Music_Player.My.Resources.Resources.Screenshot_43">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Spotify_Music_Player.My.Resources.Resources.Screenshot_44">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Spotify_Music_Player.My.Resources.Resources.Screenshot_45">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Spotify_Music_Player.My.Resources.Resources.Screenshot_46">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Spotify_Music_Player.My.Resources.Resources.search_127px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Spotify_Music_Player.My.Resources.Resources.shuffle_127px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Spotify_Music_Player.My.Resources.Resources.shuffle_127px_png1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Spotify_Music_Player.My.Resources.Resources.skip_to_start_127px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Spotify_Music_Player.My.Resources.Resources.skip_to_start_127px_png1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Spotify_Music_Player.My.Resources.Resources.spotify">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+</members>
+</doc>
